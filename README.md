@@ -135,7 +135,9 @@ Provide your project presentation in either `.pptx`, `.ppt`, or `.pdf` format. T
 ├── presentation.pptx # PowerPoint presentation file
 ```
 
----
+## 6. Other Documents
+
+Provide the wiring diagram of your components, attach pictures of your final project on how did you assemble the design. Place these files in the `/others` directory.
 
 ## Final Notes:
 - **Documentation**: Ensure that all your files are well-documented. This includes commenting your code, describing your designs, and providing detailed instructions in your README file.
