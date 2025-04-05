@@ -131,14 +131,16 @@ The `bom.xls` file should include the following columns:
 
 ---
 
-## 5. Presentations
+## 5. Reports and Presentations
 
-Provide your project presentation in either `.pptx`, `.ppt`, or `.pdf` format. This should include a brief overview of your project, objectives, design process, results, and conclusions. This should include all the milestone submission presentations.
+Provide your project presentation and reports in either `.pptx`, `.ppt`, or `.pdf` format. This should include a brief overview of your project, objectives, design process, results, and conclusions. This should include all the milestone submission presentations.
 
 ### Folder Structure:
 ```plaintext
-/Project-Root 
-├── presentation.pptx # PowerPoint presentation file
+/Project-Root
+  ├── /reports 
+    ├── presentation.pptx # PowerPoint presentation file
+    ├── milestone_reports.pdf # Milestone Reports in PDF file
 ```
 
 ## 6. Other Documents
